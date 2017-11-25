@@ -1,0 +1,50 @@
+{
+	"description": "PTV status updates and service disruptions",
+	"last updated": "Saturday 25 November 2017 3:24pm",
+	"metro": [{
+		"service": "Sunbury",
+		"status": "Good Service "
+	}, {
+		"service": "Upfield",
+		"status": "Planned Works "
+	}, {
+		"service": "Craigieburn",
+		"status": "Good Service "
+	}, {
+		"service": "Hurstbridge",
+		"status": "Good Service "
+	}, {
+		"service": "South Morang",
+		"status": "Good Service "
+	}, {
+		"service": "Belgrave",
+		"status": "Minor Delays "
+	}, {
+		"service": "Lilydale",
+		"status": "Minor Delays "
+	}, {
+		"service": "Glen Waverley",
+		"status": "Good Service "
+	}, {
+		"service": "Alamein",
+		"status": "Good Service "
+	}, {
+		"service": "Cranbourne",
+		"status": "Good Service "
+	}, {
+		"service": "Pakenham",
+		"status": "Good Service "
+	}, {
+		"service": "Frankston",
+		"status": "Planned Works "
+	}, {
+		"service": "Werribee",
+		"status": "Good Service "
+	}, {
+		"service": "Williamstown",
+		"status": "Good Service "
+	}, {
+		"service": "Sandringham",
+		"status": "Good Service "
+	}]
+}
