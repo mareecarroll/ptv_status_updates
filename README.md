@@ -5,7 +5,7 @@ PTV is Public Transport Victoria (Australia)
 
 # Current functionality
 
-Downloads PTV status updates for Metro Trains services
+Fetches PTV status updates for Metro Trains services as json
 
 # Future functionality
 
